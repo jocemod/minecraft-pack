@@ -1,0 +1,12 @@
+{
+    "pack": {
+        "pack_format": 8,
+        "description": "\u6e05\u660e\u8282\u6750\u8d28\u5305"
+  },
+    "language":{
+        "zh_cn":{
+	        "name": "\u6e05\u660e\u8282",
+		    "region": "\u5929\u671d"
+	    }
+    }
+}
